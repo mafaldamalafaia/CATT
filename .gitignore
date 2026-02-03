@@ -144,7 +144,7 @@ cython_debug/
 .DS_Store
 
 # Project specific
-/*.csv
+# /*.csv
 .idea*
 *.tmp
 *.md5
